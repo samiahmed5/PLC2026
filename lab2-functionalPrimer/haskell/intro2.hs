@@ -1,4 +1,4 @@
-module Intro2 where
+grmodule Intro2 where
 -- test Comment
 -- String algebra:
 name = "Alice"
